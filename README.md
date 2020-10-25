@@ -8,4 +8,6 @@ Send me an email if you do any modifications, or if it was useful, or whatever y
 
 francamara99@gmail.com
 
+This project was based on Tenzin´s video: https://youtu.be/jaVNP3nIAv0 Make sure you leave a like.
+
 Hope you enjoy!
