@@ -6,7 +6,7 @@ With this code you can do whatever you want but if you give me some credit I wou
 
 Send me an email if you do any modifications, or if it was useful, or whatever you want to say to me.
 
-francamara99@gmail.com
+francamaradev@gmail.com
 
 This project was based on Tenzin´s video: https://youtu.be/jaVNP3nIAv0 Make sure you leave a like.
 
